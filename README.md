@@ -6,3 +6,8 @@ Activity 1 Screenshot:
 Activity 2 Screenshot:
 ![image](https://github.com/coskos-ops/ECE444-F2023-Assignment1/assets/7282496/80facab4-bc5e-4440-91c0-332b97c748bd)
 
+Activity 3 Screenshot:
+![image](https://github.com/coskos-ops/ECE444-F2023-Assignment1/assets/7282496/8b3184bf-f424-44df-81f7-2e4453afc247)
+
+
+
