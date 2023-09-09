@@ -5,3 +5,5 @@
 .idea/ECE444-F2023-Assignment1.iml
 .idea/.name
 .idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
+__pycache__/utils.cpython-39.pyc
