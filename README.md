@@ -9,5 +9,9 @@ Activity 2 Screenshot:
 Activity 3 Screenshot:
 ![image](https://github.com/coskos-ops/ECE444-F2023-Assignment1/assets/7282496/8b3184bf-f424-44df-81f7-2e4453afc247)
 
+Activity 4 Screenshot:
+![image](https://github.com/coskos-ops/ECE444-F2023-Assignment1/assets/7282496/d58f0f63-3aef-45eb-9434-bffe57ae20ba)
+
+
 
 
