@@ -18,7 +18,8 @@ Activity 5 Screenshots:
 
 ![image](https://github.com/coskos-ops/ECE444-F2023-Assignment1/assets/7282496/2fb0537c-a25a-41db-9698-956cca3b8d4e)
 
-![image](https://github.com/coskos-ops/ECE444-F2023-Assignment1/assets/7282496/588b69a4-07db-4a33-95f8-617ab4487644)
+![image](https://github.com/coskos-ops/ECE444-F2023-Assignment1/assets/7282496/8432021b-c4ad-489a-87fe-b25d209bf518)
+
 
 
 
